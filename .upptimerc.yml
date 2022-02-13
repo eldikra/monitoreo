@@ -12,6 +12,10 @@ sites:
     url: https://www.instagram.com
   - name: Banco Provincia
     url: https://www.bancoprovincia.com.ar
+  - name: BIP
+    url: https://www.bancoprovincia.bancainternet.com.ar/eBanking/login/inicio.htm
+  - name: NoAnda
+    url: https://www.bancainternet.com/inicio.htm
 
 assignees:
   - eldikra
