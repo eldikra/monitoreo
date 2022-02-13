@@ -14,9 +14,7 @@ sites:
     url: https://www.bancoprovincia.com.ar
   - name: BIP
     url: https://www.bancoprovincia.bancainternet.com.ar/eBanking/login/inicio.htm
-    __dangerous__disable_verify_host: true
-  - name: NoAnda
-    url: https://www.bancainternet.com/inicio.htm
+    __dangerous__insecure: true
 
 assignees:
   - eldikra
@@ -25,7 +23,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  js: "window.onload = function() { alert('Hola!!') }"
+  #js: "window.onload = function() { alert('Hola!!') }"
   baseUrl: /monitoreo
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Eldikra status page
