@@ -14,6 +14,7 @@ sites:
     url: https://www.bancoprovincia.com.ar
   - name: BIP
     url: https://www.bancoprovincia.bancainternet.com.ar/eBanking/login/inicio.htm
+    __dangerous__disable_verify_host: true
   - name: NoAnda
     url: https://www.bancainternet.com/inicio.htm
 
