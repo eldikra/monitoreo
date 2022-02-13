@@ -5,6 +5,7 @@ repo: monitoreo # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+    icon: https://www.google.com/favicon.ico
   - name: 101SI
     url: https://www.101si.com.ar
   - name: Instagram
@@ -19,6 +20,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
+  js: "window.onload = function() { alert('Hola!!') }"
   baseUrl: /monitoreo
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Eldikra status page
