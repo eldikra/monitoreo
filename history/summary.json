@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 80,
-    "timeDay": 80,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1419,
-    "timeDay": 1419,
-    "timeWeek": 1419,
-    "timeMonth": 1419,
-    "timeYear": 1419,
+    "time": 1463,
+    "timeDay": 1463,
+    "timeWeek": 1463,
+    "timeMonth": 1463,
+    "timeYear": 1463,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 793,
-    "timeDay": 793,
-    "timeWeek": 793,
-    "timeMonth": 793,
-    "timeYear": 793,
+    "time": 707,
+    "timeDay": 707,
+    "timeWeek": 707,
+    "timeMonth": 707,
+    "timeYear": 707,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4366,
-    "timeDay": 4366,
-    "timeWeek": 4366,
-    "timeMonth": 4366,
-    "timeYear": 4366,
+    "time": 3905,
+    "timeDay": 3905,
+    "timeWeek": 3905,
+    "timeMonth": 3905,
+    "timeYear": 3905,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bancoprovincia.bancainternet.com.ar",
     "slug": "bip",
     "status": "down",
-    "uptime": "3.56%",
-    "uptimeDay": "3.56%",
-    "uptimeWeek": "3.56%",
-    "uptimeMonth": "3.56%",
-    "uptimeYear": "3.56%",
+    "uptime": "0.65%",
+    "uptimeDay": "0.65%",
+    "uptimeWeek": "0.65%",
+    "uptimeMonth": "0.65%",
+    "uptimeYear": "0.65%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-13": 1
+      "2022-02-13": 6
     }
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bancainternet.com",
     "slug": "no-anda",
     "status": "down",
-    "uptime": "70.33%",
-    "uptimeDay": "70.33%",
-    "uptimeWeek": "70.33%",
-    "uptimeMonth": "70.33%",
-    "uptimeYear": "70.33%",
+    "uptime": "7.16%",
+    "uptimeDay": "7.16%",
+    "uptimeWeek": "7.16%",
+    "uptimeMonth": "7.16%",
+    "uptimeYear": "7.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-13": 0
+      "2022-02-13": 5
     }
   }
 ]
