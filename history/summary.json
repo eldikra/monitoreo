@@ -22,9 +22,9 @@
     "url": "https://www.101si.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.101si.com.ar",
     "slug": "101-si",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1320,
     "timeMonth": 1320,
     "timeYear": 1320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-17": 0
+    }
   },
   {
     "name": "Instagram",
