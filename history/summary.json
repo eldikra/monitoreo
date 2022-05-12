@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/www.101si.com.ar",
     "slug": "101-si",
     "status": "down",
-    "uptime": "50.25%",
+    "uptime": "50.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "9.26%",
-    "uptimeYear": "50.25%",
+    "uptimeMonth": "7.86%",
+    "uptimeYear": "50.01%",
     "time": 1161,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 481,
     "timeYear": 1161,
     "dailyMinutesDown": {
-      "2022-05-12": 78,
+      "2022-05-12": 692,
       "2022-05-11": 1440,
       "2022-05-10": 1440,
       "2022-05-09": 1440,
@@ -127,9 +127,9 @@
     "url": "https://www.bancoprovincia.bancainternet.com.ar/eBanking/login/inicio.htm",
     "icon": "https://favicons.githubusercontent.com/www.bancoprovincia.bancainternet.com.ar",
     "slug": "bip",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -138,6 +138,8 @@
     "timeWeek": 1192,
     "timeMonth": 1269,
     "timeYear": 1254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-12": 0
+    }
   }
 ]
