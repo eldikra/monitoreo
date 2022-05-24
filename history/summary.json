@@ -26,7 +26,7 @@
     "uptime": "55.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.90%",
+    "uptimeMonth": "39.94%",
     "uptimeYear": "55.71%",
     "time": 1173,
     "timeDay": 952,
@@ -106,9 +106,9 @@
     "url": "https://www.bancoprovincia.com.ar",
     "icon": "https://favicons.githubusercontent.com/www.bancoprovincia.com.ar",
     "slug": "banco-provincia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -118,6 +118,7 @@
     "timeMonth": 2433,
     "timeYear": 3229,
     "dailyMinutesDown": {
+      "2022-05-24": 0,
       "2022-04-08": 16,
       "2022-03-28": 39
     }
@@ -128,18 +129,18 @@
     "icon": "https://favicons.githubusercontent.com/www.bancoprovincia.bancainternet.com.ar",
     "slug": "bip",
     "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.78%",
+    "uptime": "99.77%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "99.23%",
+    "uptimeYear": "99.77%",
     "time": 1282,
     "timeDay": 2507,
     "timeWeek": 1471,
     "timeMonth": 1326,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2022-05-24": 40,
+      "2022-05-24": 55,
       "2022-05-18": 238,
       "2022-05-12": 47
     }
