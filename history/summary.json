@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 75,
-    "timeWeek": 124,
-    "timeMonth": 108,
-    "timeYear": 142,
+    "time": 129,
+    "timeDay": 54,
+    "timeWeek": 123,
+    "timeMonth": 107,
+    "timeYear": 141,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.63%",
-    "time": 690,
-    "timeDay": 255,
-    "timeWeek": 469,
-    "timeMonth": 577,
-    "timeYear": 592,
+    "time": 688,
+    "timeDay": 373,
+    "timeWeek": 453,
+    "timeMonth": 578,
+    "timeYear": 590,
     "dailyMinutesDown": {
       "2023-05-30": 64,
       "2023-04-21": 779,
@@ -62,8 +62,7 @@
       "2022-08-29": 780,
       "2022-08-28": 1440,
       "2022-08-27": 422,
-      "2022-07-15": 34,
-      "2022-07-14": 6
+      "2022-07-15": 34
     }
   },
   {
@@ -73,17 +72,16 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.14%",
-    "time": 479,
-    "timeDay": 413,
+    "time": 478,
+    "timeDay": 404,
     "timeWeek": 412,
-    "timeMonth": 425,
+    "timeMonth": 423,
     "timeYear": 444,
     "dailyMinutesDown": {
-      "2023-07-13": 8,
       "2023-07-12": 18,
       "2023-07-04": 25,
       "2023-07-01": 16,
@@ -103,7 +101,7 @@
       "2023-05-14": 795,
       "2023-05-13": 972,
       "2023-05-12": 762,
-      "2023-05-11": 450
+      "2023-05-11": 465
     }
   },
   {
@@ -117,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.92%",
-    "time": 2741,
-    "timeDay": 1959,
-    "timeWeek": 2315,
-    "timeMonth": 2500,
-    "timeYear": 2650,
+    "time": 2740,
+    "timeDay": 2247,
+    "timeWeek": 2343,
+    "timeMonth": 2503,
+    "timeYear": 2651,
     "dailyMinutesDown": {
       "2023-07-06": 20,
       "2023-07-04": 16,
@@ -150,9 +148,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.94%",
     "time": 1227,
-    "timeDay": 1160,
+    "timeDay": 1005,
     "timeWeek": 1182,
-    "timeMonth": 1209,
+    "timeMonth": 1208,
     "timeYear": 1218,
     "dailyMinutesDown": {
       "2023-07-06": 20,
