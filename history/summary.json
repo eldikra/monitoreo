@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
     "timeDay": 153,
     "timeWeek": 125,
     "timeMonth": 138,
     "timeYear": 145,
-    "dailyMinutesDown": {
-      "2023-08-11": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "101SI",
