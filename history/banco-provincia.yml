@@ -1,7 +1,7 @@
 url: https://www.bancoprovincia.com.ar
-status: up
-code: 200
-responseTime: 5219
-lastUpdated: 2023-09-20T04:57:06.353Z
+status: down
+code: 502
+responseTime: 1421
+lastUpdated: 2023-09-20T11:28:13.890Z
 startTime: 2022-02-13T02:40:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
