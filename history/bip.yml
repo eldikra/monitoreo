@@ -1,7 +1,7 @@
 url: https://www.bancoprovincia.bancainternet.com.ar/eBanking/login/inicio.htm
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-04T13:40:47.930Z
+status: up
+code: 200
+responseTime: 5331
+lastUpdated: 2023-10-04T13:47:28.082Z
 startTime: 2022-02-13T03:33:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
