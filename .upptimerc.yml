@@ -13,7 +13,7 @@ sites:
   - name: Banco Provincia
     url: https://www.bancoprovincia.com.ar
   - name: BIP
-    url: https://www.bancoprovincia.bancainternet.com.ar/eBanking/login/inicio.htm
+    url: https://www.bancoprovincia.bancainternet.com.ar/spa/
     __dangerous__insecure: true
 
 assignees:
