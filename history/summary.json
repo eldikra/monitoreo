@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2024-09-03": 406,
+      "2024-09-03": 414,
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
@@ -333,19 +333,19 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "down",
+    "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 507,
-    "timeDay": 813,
-    "timeWeek": 703,
-    "timeMonth": 579,
-    "timeYear": 552,
+    "time": 508,
+    "timeDay": 806,
+    "timeWeek": 713,
+    "timeMonth": 585,
+    "timeYear": 553,
     "dailyMinutesDown": {
-      "2024-09-03": 0
+      "2024-09-03": 7
     }
   },
   {
