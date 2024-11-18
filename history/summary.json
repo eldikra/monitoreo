@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 83,
-    "timeWeek": 107,
+    "timeDay": 72,
+    "timeWeek": 105,
     "timeMonth": 96,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "57.66%",
+    "uptime": "57.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.87%",
     "uptimeYear": "14.77%",
-    "time": 401,
+    "time": 399,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 740,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-11-17": 79,
+      "2024-11-18": 77,
+      "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
@@ -347,8 +348,7 @@
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
-      "2023-11-20": 1440,
-      "2023-11-19": 1440
+      "2023-11-20": 1440
     }
   },
   {
@@ -363,10 +363,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 536,
-    "timeDay": 489,
-    "timeWeek": 465,
-    "timeMonth": 623,
-    "timeYear": 562,
+    "timeDay": 244,
+    "timeWeek": 421,
+    "timeMonth": 602,
+    "timeYear": 561,
     "dailyMinutesDown": {}
   },
   {
@@ -379,11 +379,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.50%",
-    "time": 1595,
-    "timeDay": 4271,
-    "timeWeek": 1814,
-    "timeMonth": 1495,
+    "uptimeYear": "86.77%",
+    "time": 1593,
+    "timeDay": 1157,
+    "timeWeek": 1749,
+    "timeMonth": 1493,
     "timeYear": 1325,
     "dailyMinutesDown": {
       "2024-07-20": 32,
@@ -435,8 +435,7 @@
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
-      "2023-11-20": 1440,
-      "2023-11-19": 1440
+      "2023-11-20": 1440
     }
   },
   {
@@ -451,10 +450,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1109,
-    "timeDay": 863,
-    "timeWeek": 1030,
+    "timeDay": 858,
+    "timeWeek": 978,
     "timeMonth": 1049,
-    "timeYear": 1047,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2024-10-11": 23,
       "2024-10-06": 32,
