@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 89,
-    "timeWeek": 88,
+    "timeDay": 102,
+    "timeWeek": 89,
     "timeMonth": 100,
     "timeYear": 101,
     "dailyMinutesDown": {
@@ -25,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "56.92%",
+    "uptime": "56.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "14.77%",
     "time": 391,
     "timeDay": 0,
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-11-30": 75,
+      "2024-12-01": 96,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -347,8 +348,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   },
   {
@@ -362,10 +362,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 278,
-    "timeWeek": 516,
-    "timeMonth": 499,
+    "time": 538,
+    "timeDay": 357,
+    "timeWeek": 484,
+    "timeMonth": 497,
     "timeYear": 560,
     "dailyMinutesDown": {}
   },
@@ -375,13 +375,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bancoprovincia.com.ar.ico",
     "slug": "banco-provincia",
     "status": "up",
-    "uptime": "94.82%",
+    "uptime": "94.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.06%",
-    "time": 1580,
-    "timeDay": 1157,
+    "uptimeYear": "90.34%",
+    "time": 1578,
+    "timeDay": 1289,
     "timeWeek": 1838,
     "timeMonth": 1613,
     "timeYear": 1337,
@@ -422,8 +422,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   },
   {
@@ -437,10 +436,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1094,
-    "timeDay": 861,
-    "timeWeek": 2018,
-    "timeMonth": 1286,
+    "time": 1093,
+    "timeDay": 979,
+    "timeWeek": 2020,
+    "timeMonth": 1287,
     "timeYear": 1058,
     "dailyMinutesDown": {
       "2024-10-11": 23,
