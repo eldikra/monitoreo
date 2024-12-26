@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 98,
-    "timeWeek": 92,
+    "timeDay": 108,
+    "timeWeek": 93,
     "timeMonth": 104,
     "timeYear": 103,
     "dailyMinutesDown": {
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "55.56%",
+    "uptime": "55.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "14.77%",
-    "time": 384,
+    "time": 382,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-12-25": 71,
+      "2024-12-26": 71,
+      "2024-12-25": 1440,
       "2024-12-24": 1440,
       "2024-12-23": 1440,
       "2024-12-22": 1440,
@@ -347,8 +348,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440
+      "2023-12-28": 1440
     }
   },
   {
@@ -362,11 +362,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 293,
-    "timeWeek": 454,
-    "timeMonth": 1156,
-    "timeYear": 608,
+    "time": 592,
+    "timeDay": 1063,
+    "timeWeek": 572,
+    "timeMonth": 1173,
+    "timeYear": 610,
     "dailyMinutesDown": {}
   },
   {
@@ -379,12 +379,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.91%",
-    "time": 1460,
-    "timeDay": 1144,
-    "timeWeek": 1899,
-    "timeMonth": 1541,
-    "timeYear": 1343,
+    "uptimeYear": "97.18%",
+    "time": 1457,
+    "timeDay": 1495,
+    "timeWeek": 1347,
+    "timeMonth": 1552,
+    "timeYear": 1344,
     "dailyMinutesDown": {
       "2024-07-20": 32,
       "2024-07-14": 57,
@@ -397,8 +397,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440
+      "2023-12-28": 1440
     }
   },
   {
@@ -413,9 +412,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1091,
-    "timeDay": 857,
-    "timeWeek": 1610,
-    "timeMonth": 1356,
+    "timeDay": 1175,
+    "timeWeek": 1023,
+    "timeMonth": 1366,
     "timeYear": 1054,
     "dailyMinutesDown": {
       "2024-10-11": 23,
