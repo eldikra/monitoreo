@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 91,
-    "timeWeek": 106,
-    "timeMonth": 107,
+    "timeDay": 92,
+    "timeWeek": 105,
+    "timeMonth": 106,
     "timeYear": 103,
     "dailyMinutesDown": {
       "2024-05-01": 32
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "55.24%",
+    "uptime": "55.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "14.77%",
-    "time": 379,
+    "time": 380,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2024-12-31": 71,
+      "2025-01-01": 78,
+      "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
@@ -347,8 +348,7 @@
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1440,
-      "2024-01-03": 1440,
-      "2024-01-02": 1440
+      "2024-01-03": 1440
     }
   },
   {
@@ -362,11 +362,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 508,
-    "timeWeek": 527,
-    "timeMonth": 1159,
-    "timeYear": 608,
+    "time": 593,
+    "timeDay": 761,
+    "timeWeek": 593,
+    "timeMonth": 1171,
+    "timeYear": 610,
     "dailyMinutesDown": {}
   },
   {
@@ -379,20 +379,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.55%",
+    "uptimeYear": "98.83%",
     "time": 1455,
-    "timeDay": 1781,
-    "timeWeek": 1825,
-    "timeMonth": 1530,
-    "timeYear": 1353,
+    "timeDay": 1629,
+    "timeWeek": 1894,
+    "timeMonth": 1541,
+    "timeYear": 1354,
     "dailyMinutesDown": {
       "2024-07-20": 32,
       "2024-07-14": 57,
       "2024-06-02": 146,
       "2024-01-05": 235,
       "2024-01-04": 1440,
-      "2024-01-03": 1440,
-      "2024-01-02": 1440
+      "2024-01-03": 1440
     }
   },
   {
@@ -407,9 +406,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1098,
-    "timeDay": 1234,
-    "timeWeek": 1580,
-    "timeMonth": 1244,
+    "timeDay": 1235,
+    "timeWeek": 1634,
+    "timeMonth": 1253,
     "timeYear": 1061,
     "dailyMinutesDown": {
       "2024-10-11": 23,
