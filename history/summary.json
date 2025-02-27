@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 103,
-    "timeDay": 138,
-    "timeWeek": 96,
-    "timeMonth": 104,
+    "timeDay": 72,
+    "timeWeek": 87,
+    "timeMonth": 103,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 32
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-02-26": 1329,
+      "2025-02-27": 74,
+      "2025-02-26": 1440,
       "2025-02-25": 1440,
       "2025-02-24": 1440,
       "2025-02-23": 1440,
@@ -347,8 +348,7 @@
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
-      "2024-02-29": 1440,
-      "2024-02-28": 1440
+      "2024-02-29": 1440
     }
   },
   {
@@ -358,18 +358,16 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 595,
-    "timeDay": 422,
-    "timeWeek": 389,
-    "timeMonth": 496,
-    "timeYear": 616,
-    "dailyMinutesDown": {
-      "2025-02-26": 14
-    }
+    "timeDay": 460,
+    "timeWeek": 385,
+    "timeMonth": 490,
+    "timeYear": 614,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Banco Provincia",
@@ -382,11 +380,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1349,
-    "timeDay": 1378,
-    "timeWeek": 1233,
-    "timeMonth": 1281,
-    "timeYear": 1374,
+    "time": 1348,
+    "timeDay": 1212,
+    "timeWeek": 1221,
+    "timeMonth": 1279,
+    "timeYear": 1375,
     "dailyMinutesDown": {
       "2024-07-20": 32,
       "2024-07-14": 57,
@@ -404,10 +402,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1071,
-    "timeDay": 1153,
-    "timeWeek": 940,
-    "timeMonth": 997,
+    "time": 1070,
+    "timeDay": 870,
+    "timeWeek": 924,
+    "timeMonth": 992,
     "timeYear": 1066,
     "dailyMinutesDown": {
       "2024-10-11": 23,
