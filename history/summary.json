@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 103,
-    "timeDay": 93,
-    "timeWeek": 90,
+    "timeDay": 70,
+    "timeWeek": 80,
     "timeMonth": 92,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "52.12%",
+    "uptime": "52.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-03-04": 75,
+      "2025-03-05": 75,
+      "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
@@ -347,8 +348,7 @@
       "2024-03-09": 1440,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
-      "2024-03-06": 1440,
-      "2024-03-05": 1440
+      "2024-03-06": 1440
     }
   },
   {
@@ -363,9 +363,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
-    "timeDay": 497,
-    "timeWeek": 426,
-    "timeMonth": 462,
+    "timeDay": 333,
+    "timeWeek": 427,
+    "timeMonth": 464,
     "timeYear": 616,
     "dailyMinutesDown": {}
   },
@@ -381,9 +381,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1347,
-    "timeDay": 1440,
-    "timeWeek": 1258,
-    "timeMonth": 1287,
+    "timeDay": 1192,
+    "timeWeek": 1231,
+    "timeMonth": 1289,
     "timeYear": 1376,
     "dailyMinutesDown": {
       "2024-07-20": 32,
@@ -402,11 +402,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1067,
-    "timeDay": 1013,
-    "timeWeek": 954,
+    "time": 1065,
+    "timeDay": 871,
+    "timeWeek": 914,
     "timeMonth": 983,
-    "timeYear": 1065,
+    "timeYear": 1066,
     "dailyMinutesDown": {
       "2024-10-11": 23,
       "2024-10-06": 32,
