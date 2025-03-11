@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "51.80%",
+    "uptime": "51.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-03-11": 76,
+      "2025-03-11": 465,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -356,18 +356,20 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
-    "timeDay": 634,
-    "timeWeek": 578,
-    "timeMonth": 482,
+    "timeDay": 611,
+    "timeWeek": 579,
+    "timeMonth": 485,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 0
+    }
   },
   {
     "name": "Banco Provincia",
