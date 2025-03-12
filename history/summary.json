@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 103,
-    "timeDay": 140,
-    "timeWeek": 130,
-    "timeMonth": 103,
+    "timeDay": 94,
+    "timeWeek": 134,
+    "timeMonth": 102,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-05-01": 32
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "51.78%",
+    "uptime": "51.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-03-11": 472,
+      "2025-03-12": 75,
+      "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
       "2025-03-08": 1440,
@@ -347,8 +348,7 @@
       "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
-      "2024-03-13": 1440,
-      "2024-03-12": 1440
+      "2024-03-13": 1440
     }
   },
   {
@@ -358,18 +358,16 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 597,
-    "timeDay": 635,
-    "timeWeek": 587,
-    "timeMonth": 491,
-    "timeYear": 618,
-    "dailyMinutesDown": {
-      "2025-03-11": 7
-    }
+    "timeDay": 698,
+    "timeWeek": 624,
+    "timeMonth": 498,
+    "timeYear": 620,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Banco Provincia",
@@ -382,10 +380,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1358,
-    "timeDay": 6789,
-    "timeWeek": 2049,
-    "timeMonth": 1456,
+    "time": 1357,
+    "timeDay": 1154,
+    "timeWeek": 2044,
+    "timeMonth": 1449,
     "timeYear": 1394,
     "dailyMinutesDown": {
       "2024-07-20": 32,
@@ -404,11 +402,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1063,
-    "timeDay": 1015,
-    "timeWeek": 958,
-    "timeMonth": 947,
-    "timeYear": 1067,
+    "time": 1070,
+    "timeDay": 4689,
+    "timeWeek": 1503,
+    "timeMonth": 1078,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2024-10-11": 23,
       "2024-10-06": 32,
