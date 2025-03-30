@@ -13,7 +13,7 @@
     "time": 104,
     "timeDay": 96,
     "timeWeek": 133,
-    "timeMonth": 134,
+    "timeMonth": 132,
     "timeYear": 110,
     "dailyMinutesDown": {
       "2024-05-01": 32
@@ -25,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "50.94%",
+    "uptime": "50.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "15.05%",
     "time": 317,
     "timeDay": 0,
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-03-29": 1438,
+      "2025-03-30": 83,
+      "2025-03-29": 1440,
       "2025-03-28": 1440,
       "2025-03-27": 1440,
       "2025-03-26": 1440,
@@ -347,8 +348,7 @@
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
-      "2024-03-31": 1440,
-      "2024-03-30": 1440
+      "2024-03-31": 1440
     }
   },
   {
@@ -357,18 +357,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
     "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "94.47%",
-    "uptimeWeek": "94.80%",
-    "uptimeMonth": "98.45%",
+    "uptime": "99.76%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "94.87%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "99.87%",
     "time": 609,
     "timeDay": 555,
     "timeWeek": 635,
-    "timeMonth": 649,
+    "timeMonth": 646,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-03-29": 80,
+      "2025-03-29": 73,
       "2025-03-28": 144,
       "2025-03-27": 115,
       "2025-03-25": 137,
@@ -394,7 +394,7 @@
     "time": 1412,
     "timeDay": 1165,
     "timeWeek": 1943,
-    "timeMonth": 2301,
+    "timeMonth": 2267,
     "timeYear": 1473,
     "dailyMinutesDown": {
       "2025-03-23": 52,
@@ -418,7 +418,7 @@
     "time": 1088,
     "timeDay": 876,
     "timeWeek": 1049,
-    "timeMonth": 1522,
+    "timeMonth": 1503,
     "timeYear": 1115,
     "dailyMinutesDown": {
       "2025-03-23": 52,
