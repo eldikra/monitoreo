@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "49.86%",
+    "uptime": "49.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-04-23": 882,
+      "2025-04-23": 1137,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 1440,
@@ -356,15 +356,15 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "92.61%",
-    "uptimeWeek": "94.06%",
+    "uptimeDay": "94.39%",
+    "uptimeWeek": "94.05%",
     "uptimeMonth": "94.53%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 584,
-    "timeDay": 525,
-    "timeWeek": 511,
+    "timeDay": 576,
+    "timeWeek": 512,
     "timeMonth": 562,
     "timeYear": 594,
     "dailyMinutesDown": {
@@ -399,7 +399,7 @@
       "2025-03-25": 137,
       "2025-03-24": 47,
       "2025-03-22": 25,
-      "2025-03-19": 34
+      "2025-03-19": 16
     }
   },
   {
@@ -440,7 +440,7 @@
     "time": 1103,
     "timeDay": 1227,
     "timeWeek": 1516,
-    "timeMonth": 1278,
+    "timeMonth": 1280,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2025-04-13": 178,
