@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-04-28": 82,
+      "2025-04-28": 236,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -356,18 +356,19 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "95.88%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "95.87%",
     "uptimeWeek": "95.57%",
-    "uptimeMonth": "94.69%",
-    "uptimeYear": "99.53%",
+    "uptimeMonth": "94.86%",
+    "uptimeYear": "99.55%",
     "time": 584,
-    "timeDay": 608,
-    "timeWeek": 582,
+    "timeDay": 612,
+    "timeWeek": 583,
     "timeMonth": 554,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2025-04-28": 0,
       "2025-04-27": 59,
       "2025-04-26": 31,
       "2025-04-25": 21,
@@ -399,7 +400,7 @@
       "2025-03-30": 90,
       "2025-03-29": 73,
       "2025-03-28": 144,
-      "2025-03-27": 115
+      "2025-03-27": 39
     }
   },
   {
@@ -408,7 +409,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bancoprovincia.com.ar.ico",
     "slug": "banco-provincia",
     "status": "up",
-    "uptime": "95.47%",
+    "uptime": "95.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
