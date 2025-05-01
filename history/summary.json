@@ -13,11 +13,9 @@
     "time": 107,
     "timeDay": 222,
     "timeWeek": 185,
-    "timeMonth": 127,
+    "timeMonth": 128,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2024-05-01": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "101SI",
@@ -25,10 +23,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "49.55%",
+    "uptime": "49.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "15.05%",
     "time": 317,
     "timeDay": 0,
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 317,
     "dailyMinutesDown": {
-      "2025-04-30": 1437,
+      "2025-05-01": 80,
+      "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
       "2025-04-27": 1440,
@@ -347,8 +346,7 @@
       "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 49,
-      "2024-05-02": 160,
-      "2024-05-01": 1440
+      "2024-05-02": 160
     }
   },
   {
@@ -356,19 +354,20 @@
     "url": "https://www.instagram.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.instagram.com.ico",
     "slug": "instagram",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "85.12%",
-    "uptimeWeek": "92.26%",
-    "uptimeMonth": "94.10%",
-    "uptimeYear": "99.51%",
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "79.35%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "94.05%",
+    "uptimeYear": "99.49%",
     "time": 581,
-    "timeDay": 430,
-    "timeWeek": 550,
-    "timeMonth": 546,
-    "timeYear": 589,
+    "timeDay": 424,
+    "timeWeek": 548,
+    "timeMonth": 542,
+    "timeYear": 588,
     "dailyMinutesDown": {
-      "2025-04-30": 215,
+      "2025-05-01": 80,
+      "2025-04-30": 218,
       "2025-04-29": 198,
       "2025-04-28": 139,
       "2025-04-27": 59,
@@ -416,7 +415,7 @@
     "time": 1442,
     "timeDay": 1172,
     "timeWeek": 1914,
-    "timeMonth": 1653,
+    "timeMonth": 1525,
     "timeYear": 1518,
     "dailyMinutesDown": {
       "2025-04-24": 17,
@@ -441,7 +440,7 @@
     "time": 1112,
     "timeDay": 878,
     "timeWeek": 1544,
-    "timeMonth": 1400,
+    "timeMonth": 1405,
     "timeYear": 1151,
     "dailyMinutesDown": {
       "2025-04-13": 178,
