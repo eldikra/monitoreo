@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 74,
-    "timeWeek": 93,
-    "timeMonth": 118,
-    "timeYear": 107,
+    "timeDay": 136,
+    "timeWeek": 100,
+    "timeMonth": 116,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   },
   {
@@ -27,14 +27,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.61%",
+    "uptimeYear": "6.57%",
     "time": 317,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 306,
+    "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-06-01": 1315,
+      "2025-06-02": 87,
+      "2025-06-01": 1440,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
@@ -386,17 +387,16 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "93.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "94.04%",
     "uptimeYear": "99.40%",
     "time": 582,
-    "timeDay": 820,
-    "timeWeek": 733,
+    "timeDay": 879,
+    "timeWeek": 740,
     "timeMonth": 584,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-06-01": 7,
       "2025-05-28": 93,
       "2025-05-27": 3,
       "2025-05-20": 20,
@@ -420,7 +420,8 @@
       "2025-05-02": 85,
       "2025-05-01": 125,
       "2025-04-30": 218,
-      "2025-04-29": 198
+      "2025-04-29": 198,
+      "2025-04-28": 20
     }
   },
   {
@@ -429,24 +430,23 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bancoprovincia.com.ar.ico",
     "slug": "banco-provincia",
     "status": "up",
-    "uptime": "95.60%",
+    "uptime": "95.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.93%",
     "time": 1422,
-    "timeDay": 1212,
-    "timeWeek": 1330,
-    "timeMonth": 1332,
-    "timeYear": 1537,
+    "timeDay": 1283,
+    "timeWeek": 1285,
+    "timeMonth": 1324,
+    "timeYear": 1538,
     "dailyMinutesDown": {
       "2025-05-11": 15,
       "2025-04-24": 17,
       "2025-03-23": 52,
       "2025-03-16": 63,
       "2024-07-20": 32,
-      "2024-07-14": 57,
-      "2024-06-02": 146
+      "2024-07-14": 57
     }
   },
   {
@@ -460,10 +460,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.86%",
-    "time": 1114,
-    "timeDay": 872,
-    "timeWeek": 1637,
-    "timeMonth": 1142,
+    "time": 1113,
+    "timeDay": 993,
+    "timeWeek": 1604,
+    "timeMonth": 1136,
     "timeYear": 1168,
     "dailyMinutesDown": {
       "2025-05-11": 120,
@@ -475,8 +475,7 @@
       "2024-10-06": 32,
       "2024-10-02": 33,
       "2024-10-01": 55,
-      "2024-07-18": 15,
-      "2024-06-02": 69
+      "2024-07-18": 15
     }
   }
 ]
