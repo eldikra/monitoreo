@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 72,
-    "timeWeek": 100,
-    "timeMonth": 116,
-    "timeYear": 109,
-    "dailyMinutesDown": {}
+    "time": 112,
+    "timeDay": 294,
+    "timeWeek": 152,
+    "timeMonth": 128,
+    "timeYear": 110,
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "101SI",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "47.29%",
+    "uptime": "47.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2025-06-26": 85,
+      "2025-06-26": 323,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
       "2025-06-23": 1440,
