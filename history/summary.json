@@ -11,9 +11,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 90,
-    "timeWeek": 102,
-    "timeMonth": 131,
+    "timeDay": 74,
+    "timeWeek": 100,
+    "timeMonth": 130,
     "timeYear": 112,
     "dailyMinutesDown": {
       "2025-06-29": 39,
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "46.41%",
+    "uptime": "46.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2025-07-19": 585,
+      "2025-07-20": 107,
+      "2025-07-19": 1440,
       "2025-07-18": 1440,
       "2025-07-17": 1440,
       "2025-07-16": 1440,
@@ -399,8 +400,7 @@
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
-      "2024-07-21": 1440,
-      "2024-07-20": 1440
+      "2024-07-21": 1440
     }
   },
   {
@@ -410,17 +410,16 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.42%",
     "time": 587,
-    "timeDay": 386,
-    "timeWeek": 435,
-    "timeMonth": 601,
+    "timeDay": 247,
+    "timeWeek": 414,
+    "timeMonth": 597,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-07-19": 11,
       "2025-06-30": 25,
       "2025-06-08": 21,
       "2025-05-28": 93,
@@ -446,7 +445,7 @@
       "2025-05-02": 85,
       "2025-05-01": 125,
       "2025-04-30": 218,
-      "2025-04-29": 20
+      "2025-04-29": 52
     }
   },
   {
@@ -461,16 +460,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1480,
-    "timeDay": 1630,
-    "timeWeek": 1266,
+    "timeDay": 1286,
+    "timeWeek": 1284,
     "timeMonth": 1372,
-    "timeYear": 1562,
+    "timeYear": 1561,
     "dailyMinutesDown": {
       "2025-05-11": 15,
       "2025-04-24": 17,
       "2025-03-23": 52,
-      "2025-03-16": 63,
-      "2024-07-20": 32
+      "2025-03-16": 63
     }
   },
   {
@@ -485,9 +483,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1127,
-    "timeDay": 1243,
+    "timeDay": 880,
     "timeWeek": 958,
-    "timeMonth": 1026,
+    "timeMonth": 1016,
     "timeYear": 1186,
     "dailyMinutesDown": {
       "2025-05-11": 120,
