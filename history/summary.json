@@ -11,10 +11,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 142,
-    "timeWeek": 89,
-    "timeMonth": 117,
-    "timeYear": 111,
+    "timeDay": 100,
+    "timeWeek": 93,
+    "timeMonth": 118,
+    "timeYear": 112,
     "dailyMinutesDown": {
       "2025-06-29": 39,
       "2025-06-26": 18
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "46.09%",
+    "uptime": "46.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2025-07-28": 106,
+      "2025-07-29": 111,
+      "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
@@ -399,8 +400,7 @@
       "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
-      "2024-07-30": 1440,
-      "2024-07-29": 1440
+      "2024-07-30": 1440
     }
   },
   {
@@ -415,9 +415,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.42%",
     "time": 588,
-    "timeDay": 832,
-    "timeWeek": 742,
-    "timeMonth": 603,
+    "timeDay": 632,
+    "timeWeek": 787,
+    "timeMonth": 626,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2025-06-30": 25,
@@ -460,10 +460,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1485,
-    "timeDay": 1393,
-    "timeWeek": 1448,
-    "timeMonth": 1391,
-    "timeYear": 1565,
+    "timeDay": 1511,
+    "timeWeek": 1498,
+    "timeMonth": 1379,
+    "timeYear": 1566,
     "dailyMinutesDown": {
       "2025-05-11": 15,
       "2025-04-24": 17,
@@ -483,10 +483,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1128,
-    "timeDay": 1060,
-    "timeWeek": 1043,
-    "timeMonth": 1030,
-    "timeYear": 1185,
+    "timeDay": 1146,
+    "timeWeek": 1083,
+    "timeMonth": 1026,
+    "timeYear": 1186,
     "dailyMinutesDown": {
       "2025-05-11": 120,
       "2025-05-01": 16,
