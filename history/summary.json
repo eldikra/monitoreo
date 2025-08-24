@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 83,
-    "timeWeek": 134,
-    "timeMonth": 121,
-    "timeYear": 113,
+    "timeDay": 136,
+    "timeWeek": 140,
+    "timeMonth": 122,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2025-08-21": 16,
       "2025-06-29": 39,
@@ -27,7 +27,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "down",
-    "uptime": "45.13%",
+    "uptime": "45.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 740,
     "dailyMinutesDown": {
-      "2025-08-23": 1269,
+      "2025-08-24": 97,
+      "2025-08-23": 1440,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
@@ -400,8 +401,7 @@
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
-      "2024-08-25": 1440,
-      "2024-08-24": 1440
+      "2024-08-25": 1440
     }
   },
   {
@@ -411,17 +411,16 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.41%",
-    "time": 587,
-    "timeDay": 470,
-    "timeWeek": 529,
-    "timeMonth": 537,
+    "time": 588,
+    "timeDay": 615,
+    "timeWeek": 556,
+    "timeMonth": 543,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2025-08-23": 14,
       "2025-08-22": 21,
       "2025-08-19": 19,
       "2025-08-13": 16,
@@ -453,7 +452,7 @@
       "2025-05-03": 79,
       "2025-05-02": 85,
       "2025-05-01": 125,
-      "2025-04-30": 44
+      "2025-04-30": 70
     }
   },
   {
@@ -467,10 +466,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1502,
-    "timeDay": 1602,
-    "timeWeek": 1409,
-    "timeMonth": 1387,
+    "time": 1503,
+    "timeDay": 1622,
+    "timeWeek": 1476,
+    "timeMonth": 1383,
     "timeYear": 1571,
     "dailyMinutesDown": {
       "2025-05-11": 15,
@@ -491,8 +490,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1136,
-    "timeDay": 1223,
-    "timeWeek": 1071,
+    "timeDay": 1242,
+    "timeWeek": 1124,
     "timeMonth": 1046,
     "timeYear": 1191,
     "dailyMinutesDown": {
