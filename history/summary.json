@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 112,
-    "timeDay": 97,
-    "timeWeek": 91,
+    "timeDay": 81,
+    "timeWeek": 90,
     "timeMonth": 119,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -28,16 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "up",
-    "uptime": "44.77%",
+    "uptime": "44.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "42.63%",
-    "uptimeYear": "4.00%",
-    "time": 489,
-    "timeDay": 894,
-    "timeWeek": 787,
-    "timeMonth": 784,
-    "timeYear": 778,
+    "uptimeMonth": "45.90%",
+    "uptimeYear": "4.27%",
+    "time": 503,
+    "timeDay": 911,
+    "timeWeek": 791,
+    "timeMonth": 791,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2025-09-23": 47,
       "2025-09-18": 687,
@@ -389,8 +389,7 @@
       "2024-10-06": 1440,
       "2024-10-05": 1440,
       "2024-10-04": 1440,
-      "2024-10-03": 1440,
-      "2024-10-02": 1440
+      "2024-10-03": 1440
     }
   },
   {
@@ -405,9 +404,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.42%",
     "time": 587,
-    "timeDay": 278,
-    "timeWeek": 535,
-    "timeMonth": 591,
+    "timeDay": 815,
+    "timeWeek": 519,
+    "timeMonth": 601,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2025-09-21": 21,
@@ -458,11 +457,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1525,
-    "timeDay": 5546,
-    "timeWeek": 2419,
-    "timeMonth": 1796,
-    "timeYear": 1577,
+    "time": 1526,
+    "timeDay": 1602,
+    "timeWeek": 2420,
+    "timeMonth": 1800,
+    "timeYear": 1578,
     "dailyMinutesDown": {
       "2025-05-11": 15,
       "2025-04-24": 17,
@@ -480,12 +479,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
+    "uptimeYear": "99.89%",
     "time": 1164,
-    "timeDay": 1223,
-    "timeWeek": 1034,
-    "timeMonth": 1324,
-    "timeYear": 1182,
+    "timeDay": 972,
+    "timeWeek": 998,
+    "timeMonth": 1319,
+    "timeYear": 1185,
     "dailyMinutesDown": {
       "2025-05-11": 120,
       "2025-05-01": 16,
@@ -493,8 +492,7 @@
       "2025-03-23": 52,
       "2025-03-16": 137,
       "2024-10-11": 23,
-      "2024-10-06": 32,
-      "2024-10-02": 33
+      "2024-10-06": 32
     }
   }
 ]
