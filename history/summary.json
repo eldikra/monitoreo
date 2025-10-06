@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 111,
-    "timeDay": 79,
-    "timeWeek": 97,
+    "timeDay": 67,
+    "timeWeek": 95,
     "timeMonth": 94,
     "timeYear": 115,
     "dailyMinutesDown": {
@@ -28,16 +28,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "up",
-    "uptime": "44.94%",
+    "uptime": "44.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "55.78%",
-    "uptimeYear": "5.10%",
-    "time": 537,
-    "timeDay": 875,
-    "timeWeek": 847,
-    "timeMonth": 803,
-    "timeYear": 796,
+    "uptimeMonth": "59.05%",
+    "uptimeYear": "5.37%",
+    "time": 547,
+    "timeDay": 677,
+    "timeWeek": 835,
+    "timeMonth": 798,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2025-09-23": 47,
       "2025-09-18": 687,
@@ -385,8 +385,7 @@
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
-      "2024-10-07": 1440,
-      "2024-10-06": 1440
+      "2024-10-07": 1440
     }
   },
   {
@@ -401,8 +400,8 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.42%",
     "time": 586,
-    "timeDay": 290,
-    "timeWeek": 580,
+    "timeDay": 396,
+    "timeWeek": 478,
     "timeMonth": 575,
     "timeYear": 588,
     "dailyMinutesDown": {
@@ -456,10 +455,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1535,
-    "timeDay": 4537,
-    "timeWeek": 2474,
-    "timeMonth": 1915,
-    "timeYear": 1550,
+    "timeDay": 1203,
+    "timeWeek": 2417,
+    "timeMonth": 1912,
+    "timeYear": 1549,
     "dailyMinutesDown": {
       "2025-05-11": 15,
       "2025-04-24": 17,
@@ -478,10 +477,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1174,
-    "timeDay": 5116,
-    "timeWeek": 1646,
-    "timeMonth": 1460,
+    "time": 1173,
+    "timeDay": 872,
+    "timeWeek": 1591,
+    "timeMonth": 1456,
     "timeYear": 1183,
     "dailyMinutesDown": {
       "2025-05-11": 120,
@@ -489,8 +488,7 @@
       "2025-04-13": 178,
       "2025-03-23": 52,
       "2025-03-16": 137,
-      "2024-10-11": 23,
-      "2024-10-06": 32
+      "2024-10-11": 23
     }
   }
 ]
