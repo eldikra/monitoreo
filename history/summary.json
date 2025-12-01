@@ -13,7 +13,7 @@
     "time": 139,
     "timeDay": 65,
     "timeWeek": 76,
-    "timeMonth": 205,
+    "timeMonth": 206,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2025-10-14": 26,
@@ -33,7 +33,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.07%",
-    "uptimeYear": "20.05%",
+    "uptimeYear": "20.07%",
     "time": 777,
     "timeDay": 688,
     "timeWeek": 769,
@@ -333,8 +333,7 @@
       "2024-12-05": 1440,
       "2024-12-04": 1440,
       "2024-12-03": 1440,
-      "2024-12-02": 1440,
-      "2024-12-01": 1440
+      "2024-12-02": 1440
     }
   },
   {
@@ -344,17 +343,17 @@
     "slug": "instagram",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "99.40%",
     "time": 583,
     "timeDay": 585,
     "timeWeek": 536,
-    "timeMonth": 536,
+    "timeMonth": 541,
     "timeYear": 586,
     "dailyMinutesDown": {
-      "2025-11-30": 26,
+      "2025-11-30": 19,
       "2025-11-29": 25,
       "2025-11-28": 135,
       "2025-11-24": 23,
@@ -399,7 +398,8 @@
       "2025-05-11": 165,
       "2025-05-10": 117,
       "2025-05-09": 266,
-      "2025-05-08": 24
+      "2025-05-08": 24,
+      "2025-05-07": 17
     }
   },
   {
@@ -416,7 +416,7 @@
     "time": 1620,
     "timeDay": 1175,
     "timeWeek": 1249,
-    "timeMonth": 2195,
+    "timeMonth": 2218,
     "timeYear": 1605,
     "dailyMinutesDown": {
       "2025-11-14": 16,
@@ -440,7 +440,7 @@
     "time": 1246,
     "timeDay": 894,
     "timeWeek": 938,
-    "timeMonth": 1839,
+    "timeMonth": 1861,
     "timeYear": 1237,
     "dailyMinutesDown": {
       "2025-11-14": 16,
