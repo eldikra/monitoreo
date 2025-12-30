@@ -29,11 +29,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "up",
-    "uptime": "48.05%",
+    "uptime": "48.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.46%",
-    "uptimeYear": "27.19%",
+    "uptimeYear": "27.22%",
     "time": 786,
     "timeDay": 884,
     "timeWeek": 846,
@@ -308,8 +308,7 @@
       "2025-01-03": 1440,
       "2025-01-02": 1440,
       "2025-01-01": 1440,
-      "2024-12-31": 1440,
-      "2024-12-30": 1440
+      "2024-12-31": 1440
     }
   },
   {
