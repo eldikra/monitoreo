@@ -31,9 +31,9 @@
     "slug": "101-si",
     "status": "down",
     "uptime": "53.57%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "75.75%",
     "time": 1349,
     "timeDay": 2208,
@@ -141,7 +141,7 @@
       "2026-05-04": 730,
       "2026-05-09": 409,
       "2026-06-01": 1236,
-      "2026-07-03": 0
+      "2026-07-03": 93
     }
   },
   {
@@ -235,7 +235,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bancoprovincia.com.ar.ico",
     "slug": "banco-provincia",
     "status": "up",
-    "uptime": "96.66%",
+    "uptime": "96.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
