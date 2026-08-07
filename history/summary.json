@@ -29,17 +29,17 @@
     "url": "https://www.101si.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
-    "status": "down",
-    "uptime": "54.41%",
-    "uptimeDay": "91.33%",
-    "uptimeWeek": "73.22%",
-    "uptimeMonth": "93.84%",
+    "status": "up",
+    "uptime": "54.40%",
+    "uptimeDay": "80.31%",
+    "uptimeWeek": "71.65%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "84.65%",
-    "time": 1343,
-    "timeDay": 3316,
-    "timeWeek": 1920,
-    "timeMonth": 1347,
-    "timeYear": 1343,
+    "time": 1342,
+    "timeDay": 2568,
+    "timeWeek": 1843,
+    "timeMonth": 1339,
+    "timeYear": 1342,
     "dailyMinutesDown": {
       "2025-09-18": 687,
       "2025-09-17": 1440,
@@ -109,7 +109,7 @@
       "2026-07-03": 995,
       "2026-08-02": 1408,
       "2026-08-01": 1166,
-      "2026-08-07": 125
+      "2026-08-07": 284
     }
   },
   {
