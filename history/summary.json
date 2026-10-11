@@ -14,7 +14,7 @@
     "timeDay": 61,
     "timeWeek": 88,
     "timeMonth": 86,
-    "timeYear": 159,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2025-10-14": 26,
       "2026-02-14": 122,
@@ -29,17 +29,17 @@
     "url": "https://www.101si.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
-    "status": "down",
+    "status": "up",
     "uptime": "56.16%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.24%",
-    "time": 1328,
-    "timeDay": 10396,
-    "timeWeek": 3380,
-    "timeMonth": 1592,
-    "timeYear": 1376,
+    "uptimeDay": "86.17%",
+    "uptimeWeek": "98.02%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "96.21%",
+    "time": 1327,
+    "timeDay": 7311,
+    "timeWeek": 3131,
+    "timeMonth": 1578,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2025-11-14": 405,
       "2025-12-09": 800,
@@ -66,7 +66,7 @@
       "2026-08-02": 1408,
       "2026-08-01": 1166,
       "2026-08-07": 314,
-      "2026-10-11": 1
+      "2026-10-11": 199
     }
   },
   {
@@ -163,7 +163,7 @@
     "timeDay": 3516,
     "timeWeek": 3457,
     "timeMonth": 3360,
-    "timeYear": 2524,
+    "timeYear": 2527,
     "dailyMinutesDown": {
       "2025-11-14": 16,
       "2025-12-01": 33,
@@ -197,7 +197,7 @@
     "timeDay": 1122,
     "timeWeek": 1125,
     "timeMonth": 1122,
-    "timeYear": 1248,
+    "timeYear": 1249,
     "dailyMinutesDown": {
       "2025-11-14": 16,
       "2025-12-01": 33,
