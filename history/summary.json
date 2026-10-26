@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.101si.com.ar.ico",
     "slug": "101-si",
     "status": "up",
-    "uptime": "56.52%",
+    "uptime": "56.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
@@ -148,13 +148,13 @@
     "url": "https://www.bancoprovincia.com.ar/home/",
     "icon": "https://icons.duckduckgo.com/ip3/www.bancoprovincia.com.ar.ico",
     "slug": "banco-provincia",
-    "status": "up",
+    "status": "down",
     "uptime": "96.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.77%",
-    "time": 2268,
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "98.76%",
+    "time": 2270,
     "timeDay": 3125,
     "timeWeek": 3296,
     "timeMonth": 3297,
@@ -174,7 +174,8 @@
       "2026-08-13": 824,
       "2026-08-17": 1057,
       "2026-08-16": 151,
-      "2026-09-06": 251
+      "2026-09-06": 251,
+      "2026-10-26": 5
     }
   },
   {
@@ -182,9 +183,9 @@
     "url": "https://www.bancoprovincia.bancainternet.com.ar/spa/",
     "icon": "https://icons.duckduckgo.com/ip3/www.bancoprovincia.bancainternet.com.ar.ico",
     "slug": "bip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -199,7 +200,8 @@
       "2026-03-22": 143,
       "2026-03-21": 109,
       "2026-07-26": 144,
-      "2026-08-14": 22
+      "2026-08-14": 22,
+      "2026-10-26": 0
     }
   }
 ]
